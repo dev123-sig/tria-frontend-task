@@ -4,7 +4,7 @@ A modern, responsive contact management application built with React, featuring 
 
 ## 🚀 Live Demo
 
-**Deployed Application:** [Add your Vercel deployment URL here]
+**Deployed Application:** [https://tria-frontend-task-two.vercel.app/](https://tria-frontend-task-two.vercel.app/)
 
 ## ✨ Features
 
@@ -29,7 +29,7 @@ A modern, responsive contact management application built with React, featuring 
 
 - **React 18**: Modern React with hooks
 - **Vite**: Lightning-fast build tool and dev server
-- **Context API**: State management without Redux
+- **Context API**: State management solution
 - **CSS3**: Modern CSS with flexbox and grid
 - **DiceBear API**: Avatar generation service
 
@@ -106,7 +106,7 @@ contact-list-app/
 ## 🎯 Design Decisions
 
 ### State Management
-- **Context API over Redux**: For this application's scope, Context API provides sufficient state management without the overhead of Redux. It's simpler to set up and maintain for managing contacts, search queries, and UI states.
+- **Context API**: For this application's scope, Context API provides sufficient state management. It's simpler to set up and maintain for managing contacts, search queries, and UI states.
 
 ### Component Architecture
 - **Separation of Concerns**: Each component has a single responsibility
